@@ -1,0 +1,12 @@
+jupyterlab
+notebook
+viola
+autopep8
+
+numpy
+pandas
+scipy
+matplotlib
+sympy
+seaborn
+plotly
