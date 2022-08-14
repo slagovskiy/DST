@@ -43,9 +43,9 @@
 
 
 **Файлы проекта**
-- Основной файл проекта: [Ноутбук-шаблон Project 1.ipynb]()
-- Исходная таблица проекта: [dst-3.0_16_1_hh_database]()
-- Таблица ISO валют: [ExchangeRates.csv]()
+- Основной файл проекта: [Ноутбук-шаблон Project 1.ipynb](https://github.com/slagovskiy/DST/blob/main/PY-16_hh/Template_project_1.ipynb)
+- Исходная таблица проекта: [dst-3.0_16_1_hh_database](https://github.com/slagovskiy/DST/raw/main/PY-16_hh/data/dst-3.0_16_1_hh_database.7z)
+- Таблица ISO валют: [ExchangeRates.csv](https://github.com/slagovskiy/DST/raw/main/PY-16_hh/data/ExchangeRates.7z)
 
 **Таблицы проекта необходимо разместить в папку "data"**
 
