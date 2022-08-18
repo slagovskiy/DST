@@ -16,3 +16,4 @@ plotly
 
 requests
 xmltodict
+openpyxl
