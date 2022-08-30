@@ -2,15 +2,15 @@
 # Проект 2. Подгрузка новых данных. Уточнение анализа 
 
 ## Оглавление
-[1. Описание проекта](https://github.com/slagovskiy/DST/tree/main/Project-2/README.md#описанте-проекта)
+1. Описание проекта
 
-[2. Какой кейс решаем?](https://github.com/slagovskiy/DST/tree/main/Project-2/README.md#какой-кейс-решаем)
+2. Какой кейс решаем?
 
-[3. Краткая информация о данных](https://github.com/slagovskiy/DST/tree/main/Project-2/README.md#краткая-информация-о-данных)
+3. Краткая информация о данных
 
-[4. Этапы работы над проектом](https://github.com/slagovskiy/DST/tree/main/Project-2/README.md#этапы-работы-над-проектом)
+4. Этапы работы над проектом
 
-[5. Результат](https://github.com/slagovskiy/DST/tree/main/Project-2/README.md#Результат)
+5. Результат
 
 
 ### Описание проекта
@@ -18,7 +18,6 @@
 
 Реализация данного проекта подразумевает практику в этой области.
 
-:arrow_up:[к оглавлению](https://github.com/slagovskiy/DST/tree/main/Project-2/README.md#Оглавление)
 
 ### Какой кейс решаем
 В ходе реализации проекта еобходимо будет познакомиться с данными реляционного датасета hh.ru, понять, с какими резюме мы имеем дело, собрать статистику для различных кадровых агентств и статистических центров.
@@ -28,37 +27,37 @@
 На основе данные по возрасту кандидатов, по городам с наиболее активным рынком труда изучим специфику найма (где какие вакансии более активны), а также узнаеем желаемые позиции для тех или иных кандидатов.
 
 **Что практикуем:**
+
 - SQL.
 
-:arrow_up:[к оглавлению](https://github.com/slagovskiy/DST/tree/main/Project-2/README.md#Оглавление)
 
 ### Краткая информация о данных
 
 На диаграмме мы видим четыре таблицы:
 
-![изображение](https://user-images.githubusercontent.com/96936125/179499408-0f4958ad-9e08-4a9d-9aeb-3c6c25263efe.png)
+![изображение](https://github.com/slagovskiy/DST/blob/main/Project-2/data/t1.png?raw=true)
  
 CANDIDATE
 Таблица хранит в себе общие данные по кандидатам: id, пол, возраст, желаемая должность, город, вид занятости, текущая должность, дата обновления записи и зарплата.
 
-![изображение](https://user-images.githubusercontent.com/96936125/179499462-0fd9ea3b-526c-4495-a939-5a4899c64ef0.png)
+![изображение](https://github.com/slagovskiy/DST/blob/main/Project-2/data/t2.png?raw=true)
 
 CITY
 city — таблица-справочник для наших кандидатов — хранит код города и его название.
 
-![изображение](https://user-images.githubusercontent.com/96936125/179499493-ca2fb2a1-6d8b-47bc-8eab-196fb24e4719.png)
+![изображение](https://github.com/slagovskiy/DST/blob/main/Project-2/data/t3.png?raw=true)
 
 CANDIDATE_TIMETABLE_TYPE
 Это дополнительная таблица. Она существует для организации связи многие-ко-многим, так как у нас есть много кандидатов и у них может быть несколько подходящих типов рабочего графика.
 
-![изображение](https://user-images.githubusercontent.com/96936125/179499528-e45999e7-2238-4e2a-a536-957c116e26fa.png)
+![изображение](https://github.com/slagovskiy/DST/blob/main/Project-2/data/t4.png?raw=true)
 
 TIMETABLE_TYPE
 Это таблица-справочник вариантов рабочего графика, подходящего кандидату.
  
-![изображение](https://user-images.githubusercontent.com/96936125/179499553-d6f8ec85-33e3-4ac4-a3fc-d3e2390d14a2.png)
+![изображение](https://github.com/slagovskiy/DST/blob/main/Project-2/data/t5.png?raw=true)
 
-:arrow_up:[к оглавлению](https://github.com/slagovskiy/DST/tree/main/Project-2/README.md#Оглавление)
+
 
 ### 4. Этапы работы над проектом
 
@@ -68,11 +67,13 @@ TIMETABLE_TYPE
 4. глобальный анализ показателей;
 5. выводы.
 
-:arrow_up:[к оглавлению](https://github.com/slagovskiy/DST/tree/main/Project-2/README.md#Оглавление)
+
+
 
 ### 5. Результат
 
 Результатом анализа является Аналитическая справка с сформулированными выводами.
 
-:arrow_up:[к оглавлению](https://github.com/slagovskiy/DST/tree/main/Project-2/README.md#Оглавление)
+
+
 
