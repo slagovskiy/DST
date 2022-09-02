@@ -2,18 +2,18 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/slagovskiy/DST/tree/main/PY-16_hh#описанте-проекта)
+[1. Описание проекта](https://github.com/slagovskiy/DST/tree/main/Project-1#описанте-проекта)
 
-[2. Какой кейс решаем?](https://github.com/slagovskiy/DST/tree/main/PY-16_hh#какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/slagovskiy/DST/tree/main/Project-1#какой-кейс-решаем)
 
-[3. Этапы работы над проектом](https://github.com/slagovskiy/DST/tree/main/PY-16_hh#этапы-работы-над-проектом)
+[3. Этапы работы над проектом](https://github.com/slagovskiy/DST/tree/main/Project-1#этапы-работы-над-проектом)
 
-[4. Результат](https://github.com/slagovskiy/DST/tree/main/PY-16_hh#результат)
+[4. Результат](https://github.com/slagovskiy/DST/tree/main/Project-1#результат)
 
 ### Описанте проекта
 - Решить часть настоящей бизнес-задачи и примерить роль аналитика в компании HeadHunter.
 
-[К оглавлению](https://github.com/slagovskiy/DST/tree/main/PY-16_hh#оглавление) 
+[К оглавлению](https://github.com/slagovskiy/DST/tree/main/Project-1#оглавление) 
 
 ### Какой кейс решаем?
 - Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
@@ -43,13 +43,13 @@
 
 
 **Файлы проекта**
-- Основной файл проекта: [Ноутбук-шаблон Project 1.ipynb](https://github.com/slagovskiy/DST/blob/main/PY-16_hh/Template_project_1.ipynb)
-- Исходная таблица проекта: [dst-3.0_16_1_hh_database](https://github.com/slagovskiy/DST/raw/main/PY-16_hh/data/dst-3.0_16_1_hh_database.7z)
-- Таблица ISO валют: [ExchangeRates.csv](https://github.com/slagovskiy/DST/raw/main/PY-16_hh/data/ExchangeRates.7z)
+- Основной файл проекта: [Ноутбук-шаблон Project 1.ipynb](https://github.com/slagovskiy/DST/blob/main/Project-1/Template_project_1.ipynb)
+- Исходная таблица проекта: [dst-3.0_16_1_hh_database](https://github.com/slagovskiy/DST/raw/main/Project-1/data/dst-3.0_16_1_hh_database.7z)
+- Таблица ISO валют: [ExchangeRates.csv](https://github.com/slagovskiy/DST/raw/main/Project-1/data/ExchangeRates.7z)
 
 **Таблицы проекта необходимо разместить в папку "data"**
 
-[К оглавлению](https://github.com/slagovskiy/DST/tree/main/PY-16_hh#оглавление) 
+[К оглавлению](https://github.com/slagovskiy/DST/tree/main/Project-1#оглавление) 
 
 ### Этапы работы над проектом
 - Базовый анализ структуры данных.
@@ -61,9 +61,9 @@
 - Загрузка проекта на GitHub.
 - Предоставление ссылки на проект в ответ на задание.
 
-[К оглавлению](https://github.com/slagovskiy/DST/tree/main/PY-16_hh#оглавление)
+[К оглавлению](https://github.com/slagovskiy/DST/tree/main/Project-1#оглавление)
 
 ### Результат
 - В соответствии с этапами работы над проектом, была решина часть настоящей бизнес-задачи и освоена роль аналитика в компании HeadHunter.
 
-[К оглавлению](https://github.com/slagovskiy/DST/tree/main/PY-16_hh#оглавление) 
+[К оглавлению](https://github.com/slagovskiy/DST/tree/main/Project-1#оглавление) 
