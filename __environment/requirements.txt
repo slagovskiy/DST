@@ -8,6 +8,10 @@ autopep8
 
 numpy
 pandas
+pandas-profiling
+ipywidgets
+sweetviz
+dtale
 scipy
 matplotlib
 sympy
