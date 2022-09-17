@@ -8,6 +8,7 @@ autopep8
 
 numpy
 pandas
+statistics
 pandas-profiling
 ipywidgets
 sweetviz
@@ -17,6 +18,8 @@ matplotlib
 sympy
 seaborn
 plotly
+
+scikit-learn
 
 requests
 xmltodict
