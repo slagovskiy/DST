@@ -21,6 +21,7 @@ seaborn
 plotly
 
 scikit-learn
+statsmodels
 
 requests
 xmltodict
