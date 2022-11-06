@@ -22,6 +22,7 @@ plotly
 
 scikit-learn
 statsmodels
+comet_ml
 
 requests
 xmltodict
