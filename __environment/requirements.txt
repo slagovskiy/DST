@@ -19,11 +19,20 @@ matplotlib
 sympy
 seaborn
 plotly
+pillow
+loguru
+imutils
+kaleido
 
 scikit-learn
 statsmodels
 comet_ml
+lightautoml
 
 requests
 xmltodict
 openpyxl
+pytesseract
+python-dotenv
+beautifulsoup4
+schedule
