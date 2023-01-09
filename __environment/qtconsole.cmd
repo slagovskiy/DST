@@ -1,1 +1,1 @@
-.env\Scripts\python.exe -m jupyter qtconsole
+venv\Scripts\python.exe -m jupyter qtconsole

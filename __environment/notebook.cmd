@@ -1,1 +1,1 @@
-.env\Scripts\python.exe -m jupyter notebook
+venv\Scripts\python.exe -m jupyter notebook

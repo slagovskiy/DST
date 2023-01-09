@@ -1,1 +1,1 @@
-.env\Scripts\python.exe -m jupyter console
+venv\Scripts\python.exe -m jupyter console
