@@ -29,6 +29,10 @@ statsmodels
 comet_ml
 lightautoml
 
+afinn
+nltk
+spacy
+
 requests
 xmltodict
 openpyxl
