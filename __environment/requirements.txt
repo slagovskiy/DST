@@ -29,6 +29,7 @@ statsmodels
 comet_ml
 lightautoml
 clustergram
+imblearn
 
 requests
 xmltodict
