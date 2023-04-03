@@ -30,6 +30,8 @@ comet_ml
 lightautoml
 clustergram
 imblearn
+hyperopt
+optuna
 
 requests
 xmltodict
