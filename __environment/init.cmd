@@ -3,7 +3,7 @@ IF exist venv (
     echo venv exists 
 ) ELSE ( 
     mkdir venv
-    rem compact /c /i /q /f /s:venv
+    compact /c /i /q /f /s:venv
     virtualenv venv
 )
 venv\Scripts\python.exe -m pip install --upgrade pip

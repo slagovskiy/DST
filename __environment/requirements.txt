@@ -40,3 +40,5 @@ pytesseract
 python-dotenv
 beautifulsoup4
 schedule
+joblib
+yellowbrick
