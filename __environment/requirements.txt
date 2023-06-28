@@ -23,6 +23,7 @@ pillow
 loguru
 imutils
 kaleido
+sympy
 
 scikit-learn
 statsmodels
