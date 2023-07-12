@@ -24,6 +24,8 @@ loguru
 imutils
 kaleido
 sympy
+cvxpy
+pulp
 
 scikit-learn
 statsmodels
