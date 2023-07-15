@@ -1,0 +1,17 @@
+jupyterlab
+notebook
+viola
+jupyter-console
+qtconsole
+pyqt5
+autopep8
+
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+plotly
+pillow
+scipy
+xgboost
