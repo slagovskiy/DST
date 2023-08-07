@@ -35,6 +35,8 @@ clustergram
 imblearn
 hyperopt
 optuna
+xgboost
+catboost
 
 requests
 xmltodict
