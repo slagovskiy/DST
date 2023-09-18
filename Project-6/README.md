@@ -10,8 +10,6 @@
  [4. Этапы работы над проектом](https://github.com/slagovskiy/DST/blob/main/Project-6/README.md#Этапы-работы-над-проектом)
 
  [5. Результаты](https://github.com/slagovskiy/DST/blob/main/Project-6/README.md#Результаты)
- 
- [6. Выводы](https://github.com/slagovskiy/DST/blob/main/Project-6/README.md#Выводы)
 
 
 ### Описание пректа 
