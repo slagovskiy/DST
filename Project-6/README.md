@@ -1,17 +1,17 @@
 # PROJECT-6. Сегментирование клиентов онлайн-магазина подарков
 
  ## Оглавление
- [1. Описание проекта](https://github.com/slagovskiy/DST/tree/main/PROJECT-6/README.md#Описание-проекта)
+ [1. Описание проекта](https://github.com/slagovskiy/DST/edit/main/Project-6/README.md#Описание-проекта)
 
- [2. Какой кейс решаем?](https://github.com/slagovskiy/DST/tree/main/PROJECT-6/README.md#Какой-кейс-решаем)
+ [2. Какой кейс решаем?](https://github.com/slagovskiy/DST/edit/main/Project-6/README.md#Какой-кейс-решаем)
 
- [3. Краткая информация о данных](https://github.com/slagovskiy/DST/tree/main/PROJECT-6/README.md#Краткая-информация-о-данных)
+ [3. Краткая информация о данных](https://github.com/slagovskiy/DST/edit/main/Project-6/README.md#Краткая-информация-о-данных)
 
- [4. Этапы работы над проектом](https://github.com/slagovskiy/DST/tree/main/PROJECT-6/README.md#Этапы-работы-над-проектом)
+ [4. Этапы работы над проектом](https://github.com/slagovskiy/DST/edit/main/Project-6/README.md#Этапы-работы-над-проектом)
 
- [5. Результаты](https://github.com/slagovskiy/DST/tree/main/PROJECT-6/README.md#Результаты)
+ [5. Результаты](https://github.com/slagovskiy/DST/edit/main/Project-6/README.md#Результаты)
  
- [6. Выводы](https://github.com/slagovskiy/DST/tree/main/PROJECT-6/README.md#Выводы)
+ [6. Выводы](https://github.com/slagovskiy/DST/edit/main/Project-6/README.md#Выводы)
 
 
 ### Описание пректа 
@@ -24,7 +24,7 @@
 
 Машинное обучение помогает поисковой системе анализировать огромное количество данных о посетителях платформы, узнавать модели поведения профессиональных покупателей, определять категорию клиентов (например, лояльные/перспективные/новички/«спящие»/ушедшие) и выбирать правильную стратегию взаимодействия с ними.
 
-:arrow_up:[ к оглавлению](https://github.com/slagovskiy/DST/tree/main/PROJECT-6/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/slagovskiy/DST/edit/main/Project-6/README.md#Оглавление)
 
 ### Какой кейс решаем?
 
@@ -56,7 +56,7 @@
 * CustomerID — идентификатор клиента (уникальный пятизначный номер, однозначно присваиваемый каждому клиенту);
 * Country — название страны, в которой проживает клиент.
 
-:arrow_up:[ к оглавлению](https://github.com/slagovskiy/DST/tree/main/PROJECT-6/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/slagovskiy/DST/edit/main/Project-6/README.md#Оглавление)
 
 ### Этапы работы над проектом
 
@@ -65,11 +65,11 @@
 3. Разведывательный анализ данных (EDA)
 4. RFM-сегментация клиентов. Знакомство с популярным в маркетинге методом сегментации клиентов под названием RFM (Recency, Frequency, Monetary). На основе этого метода необходимо сформировать из исходного датасета о транзакциях таблицу с RFM-характеристиками клиентов и произвести их сегментацию.
 
-:arrow_up:[ к оглавлению](https://github.com/slagovskiy/DST/tree/main/PROJECT-6/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/slagovskiy/DST/edit/main/Project-6/README.md#Оглавление)
 
 ### Результаты
 
 На основе исходного датасета с помощью метода сегментации клиентов RFM сформирована таблица с RFM-характеристиками. С помощью метода главных компонент (PCA), линейного метода отображения исходного пространства признаков в его сжатую версию, - пространство признаков сжато до двух компонент. С помощью коэффициента силуэта подобрано оптимальное количество кластеров. Произведена кластеризация клиентов с помощью методов k-means, bisecting k-means и GaussianMixture.
 
-:arrow_up:[ к оглавлению](https://github.com/slagovskiy/DST/tree/main/PROJECT-6/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/slagovskiy/DST/edit/main/Project-6/README.md#Оглавление)
 
