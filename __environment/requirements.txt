@@ -37,6 +37,8 @@ hyperopt
 optuna
 xgboost
 catboost
+pmdarima
+arch
 
 requests
 xmltodict
