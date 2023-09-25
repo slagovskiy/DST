@@ -39,6 +39,12 @@ xgboost
 catboost
 pmdarima
 arch
+surprise
+lightfm
+tensorflow
+nyoka
+onnxruntime
+skl2onnx
 
 requests
 xmltodict
