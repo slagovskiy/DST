@@ -1,12 +1,12 @@
 # Проект 7. Дипломный. Прогнозирование стоимости жилья для агентства недвижимости
 
 ## Оглавление
-[1. Описание проекта](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#1. Описание проекта)  
-[2. Решаемая задача](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#2. Решаемая задача)  
-[3. Краткая информация о данных](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#3. Краткая информация о данных)  
-[4. Этапы работы над проектом](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#4. Этапы работы над проектом)  
-[5. Результаты](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#5. Результаты)  
-[6. Выводы](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#6. Выводы)  
+[1. Описание проекта](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#1.-Описание-проекта)  
+[2. Решаемая задача](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#2.-Решаемая-задача)  
+[3. Краткая информация о данных](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#3.-Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#4.-Этапы-работы-над-проектом)  
+[5. Результаты](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#5.-Результаты)  
+[6. Выводы](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#6.-Выводы)  
 
 ### 1. Описание проекта    
 Разработка и продакшен модели машинного обучения для прогнозирования стоимости объектов недвижимости, выставленных на продажу, с целью увеличения скорости реакции и качества работы риелторов в агентстве недвижимости.  
