@@ -1,17 +1,17 @@
 # Проект 7. Дипломный. Прогнозирование стоимости жилья для агентства недвижимости
 
-## Оглавление (.)[https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#0]
-[1. Описание проекта](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#1)  
-[2. Решаемая задача](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#2)  
-[3. Краткая информация о данных](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#3)  
-[4. Этапы работы над проектом](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#4)  
-[5. Результаты](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#5)  
-[6. Выводы](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#6)  
+## Оглавление
+[1. Описание проекта](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#1. Описание проекта)  
+[2. Решаемая задача](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#2. Решаемая задача)  
+[3. Краткая информация о данных](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#3. Краткая информация о данных)  
+[4. Этапы работы над проектом](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#4. Этапы работы над проектом)  
+[5. Результаты](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#5. Результаты)  
+[6. Выводы](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#6. Выводы)  
 
 ### 1. Описание проекта    
 Разработка и продакшен модели машинного обучения для прогнозирования стоимости объектов недвижимости, выставленных на продажу, с целью увеличения скорости реакции и качества работы риелторов в агентстве недвижимости.  
 
-:bookmark_tabs: [к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#0)
+:bookmark_tabs: [к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#Оглавление)
 
 
 ### 2. Решаемая задача    
@@ -41,7 +41,7 @@
 - работа с Git и GitHub посредством добавления отчета о проделанной работе в портфолио;  
 - контейнеризация и работа с Docker и DockerHub.  
 
-:bookmark_tabs: [к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#0)
+:bookmark_tabs: [к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#Оглавление)
 
 
 ### 3. Краткая информация о данных  
@@ -50,7 +50,7 @@
 Данные реальные, заранее не обработанные, поэтому содержат всевозможные пропуки, дубли, ошибки ввода и проч.  
 Информация о признаках датасета приведена в начале ноутбука.  
   
-:bookmark_tabs: [к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#0)
+:bookmark_tabs: [к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#Оглавление)
 
 
 ### 4. Этапы работы над проектом  
@@ -60,7 +60,7 @@
 4. Моделирование и решение задачи регрессии.  
 5. Подготовка модели к продакшену и деплой.  
 
-:bookmark_tabs: [к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#0)
+:bookmark_tabs: [к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#Оглавление)
 
 
 ### 5. Результаты  
@@ -71,7 +71,7 @@
 5. На основе сравнения по метрикам качества выбрана модель GradientBoostingRegressor для продакшена.  
 6. Проведена подготовка и деплой модели на сервер с его последующей контейнерезацией. 
 
-:bookmark_tabs: [к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#0)
+:bookmark_tabs: [к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#Оглавление)
 
 
 ### 6. Выводы  
@@ -84,4 +84,4 @@
 Из обученных моделей была объективно выбрана лучшая и произведен ее деплой на сервер.
 
 
-:bookmark_tabs: [к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#0)
+:bookmark_tabs: [к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#Оглавление)
