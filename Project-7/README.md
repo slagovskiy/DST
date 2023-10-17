@@ -71,6 +71,8 @@
 5. На основе сравнения по метрикам качества выбрана модель GradientBoostingRegressor для продакшена.  
 6. Проведена подготовка и деплой модели на сервер с его последующей контейнерезацией. 
 
+[Рещензия ментора.](https://github.com/slagovskiy/DST/blob/main/Project-7/review.md)
+
 :bookmark_tabs: [к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-7/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
